@@ -7,11 +7,7 @@ import java.util.ArrayList;
  * provide methods for user to interact with database.
  * @author Ning Qin
  * @since 2021-06-11
- *Class Name: Object Oriented Programming
- *Author Name: Ning Qin
- *Assignment Name: Java Assignment 2
- *Section Number: CST8284_302
- *Date: 18 July 2021
+
  */
 
 public class LendingLibrary {
