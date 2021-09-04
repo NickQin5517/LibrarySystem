@@ -4,11 +4,7 @@ package cst8284.s21.assignment2;
  *  getters and setters,then return BookLoan type.
  * @author Ning Qin
  * @since 2021-06-11
- *Class Name: Object Oriented Programming
- *Author Name: Ning Qin
- *Assignment Name: Java Assignment 2
- *Section Number: CST8284_302
- *Date: 18 July 2021
+
  */
 
 public class BookLoan {
