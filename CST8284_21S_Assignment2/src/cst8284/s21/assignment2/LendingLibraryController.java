@@ -7,11 +7,7 @@ package cst8284.s21.assignment2;
  * a LendingLibrary object bookLib.
  * @author Ning Qin
  * @since 2021-06-11
- *Class Name: Object Oriented Programming
- *Author Name: Ning Qin
- *Assignment Name: Java Assignment 2
- *Section Number: CST8284_302
- *Date: 18 July 2021
+
  */
 
 import java.util.Scanner;
